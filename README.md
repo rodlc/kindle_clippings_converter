@@ -1,4 +1,4 @@
-## 💌 Kindle Clippings → Notion → Daily Emails
+## 💌 Kindle Clippings - Notion - Daily email
 
 Personal knowledge management system that resurfaces Kindle highlights automatically.
 
